@@ -1,6 +1,6 @@
 ## Miguel Ferreira
 
-<div>
+<div >
     <a href="https://github.com/Goldenroot">
     <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Goldenroot&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
     <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goldenroot&layout=compact&langs_count=7&theme=ayu-mirage"/>
@@ -24,5 +24,5 @@
 
 
   ![Snake animation](https://github.com/Goldenroot/Goldenroot/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
