@@ -7,7 +7,7 @@
 </p>
 <p align="center">
     <a href="https://www.linkedin.com/in/miguel2k1/">
-        <img src="./assets/icons/header/website.svg" width="25px" />
+        <img src="./assets/icons/LinkedIn.png" width="25px" />
     </a>
     &nbsp;
     <a href="#">
