@@ -9,15 +9,6 @@
     <a href="https://www.linkedin.com/in/miguel2k1/">
         <img src="./assets/icons/LinkedIn.png" width="25px" />
     </a>
-    &nbsp;
-    <a href="#">
-        <img src="./assets/icons/header/github.svg" width="25px" />
-    </a>
-    &nbsp;
-    <a href="#">
-        <img src="./assets/icons/header/github.svg" width="25px" />
-    </a>
-    &nbsp;
 </p>
 
 
