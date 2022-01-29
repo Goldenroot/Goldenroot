@@ -24,7 +24,7 @@ Hello 👋, my name is Miguel Ferreira {GoldeN}. I am a cibersecurity student, p
         <img src="https://github-readme-stats.vercel.app/api?username=Goldenroot&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=f4c802&hide_border=true/" />
     </a>
     <a href="https://github.com/Goldenroot/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goldenroot&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=f4c802&title_color=ffffff&text_color=ffffff&icon_color=f4c802&hide_border=true/" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goldenroot&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=f4c802&hide_border=true/" />
     </a>
     <a href="https://github.com/Goldenroot/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Goldenroot&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f4c802&ring=f4c802&stroke=FFFFFFFF)](https://git.io/streak-stats" />
