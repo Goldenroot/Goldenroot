@@ -15,7 +15,7 @@
 
 ## :bust_in_silhouette: About Me
 &nbsp;
-Hello 👋, my name is Miguel Ferreira {GoldeN}. I am a cibersecurity student, passionate about making awesome things. I enjoy building things, especially those which help or entertain others. I spend my free time programming, listening to music , watching videos and gaming ! 😄
+Hello 👋, my name is Miguel Ferreira {GoldeN}. I am a cybersecurity student, passionate about making awesome things. I enjoy building things, especially those which help or entertain others. I spend my free time programming, listening to music, watching videos and gaming ! 😄
 
 ## 🔖 My Statistics
 &nbsp;
