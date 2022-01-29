@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="#">
-       <img src="https://i.ibb.co/F33nhmK/Youtube-Banner-1.png">
+       <img src="https://i.ibb.co/F33nhmK/Youtube-Banner-1.png" style="border-radius: 20px;">
     </a>
 </p>
 <p align="center">
