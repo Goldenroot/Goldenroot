@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="#">
-        <img src="https://i.ibb.co/F33nhmK/Youtube-Banner-1.png" />
+        <img src="./assets/images/Banner.png" />
     </a>
 </p>
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## :bust_in_silhouette: About Me
 &nbsp;
-Hello 👋, my name is Miguel Ferreira {GoldeN}. I am a student, passionate about making awesome things. I enjoy building things, especially those which help or entertain others to bring happiness in others’ life and discover new kinds of stuff to learn. I spend my free time programming, listening to music , videos and gaming ! 😄
+Hello 👋, my name is Miguel Ferreira {GoldeN}. I am a student, passionate about making awesome things. I enjoy building things, especially those which help or entertain others. I spend my free time programming, listening to music , watching videos and gaming ! 😄
 
 ## 🔖 My Statistics
 &nbsp;
