@@ -28,10 +28,7 @@ Hello 👋, my name is Miguel Ferreira {GoldeN}. I am a cybersecurity student, p
     </a>
     <a href="https://github.com/Goldenroot/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Goldenroot&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f4c802&ring=f4c802&stroke=FFFFFFFF)](https://git.io/streak-stats" />
-    </a>
-        <a href="https://open.spotify.com/user/euhbfhc8odzl33jout3h837ix?si=eed83da070104091">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=37i9dQZF1DWXRqgorJj26U&cover_image=true&theme=novatorem" width="500px"/>
-    </a>
+   
 </p>
 
 ![](https://komarev.com/ghpvc/?username=Goldenroot&style=flat-square)
